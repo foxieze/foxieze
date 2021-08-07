@@ -1,4 +1,4 @@
-![Banner Image (Senko San)](https://raw.githubusercontent.com/foxieze/foxieze/main/banner.png)
+![Banner Image (Senko San)](https://raw.githubusercontent.com/foxieze/foxieze/main/foxeze.png)
 
 # 👋 Hey!
 I'm **Jonah Rowlinson** (14 y.o), a high school student from the UK.
