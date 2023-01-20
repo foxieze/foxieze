@@ -1,14 +1,14 @@
 ![Banner Image (Senko San)](https://raw.githubusercontent.com/foxieze/foxieze/main/foxeze.png)
 
 # 👋 Hey!
-I'm **Jonah Rowlinson** (15 y.o), a high school student from the UK.
+I'm **Jonah Rowlinson** (16 y.o), a high school student from the UK.
 
 ### 🕣 Currently I'm working on:
-- Yellow Water
-- VeryTerribleCode Website
+- Music stuff
+- Life
 
 ### 🏫 Currently I'm learning:
-- C++
+- Prelude in G Minor on Piano
 
 <img src="https://img.shields.io/static/v1?label=Discord&message=foxieze%234048&color=7289da&style=flat-square" />
 </br>
