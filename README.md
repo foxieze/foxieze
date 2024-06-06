@@ -6,6 +6,8 @@ I'm **Jonah Rowlinson** (17 y.o), a high school student from the UK.
 ### 🕣 Currently I'm working on:
 - Music stuff
 - Life
+- Wacky MicroBit things
+- A crap ton of retro video gaming
 
 <img src="https://img.shields.io/static/v1?label=Discord&message=foxieze&color=7289da&style=flat-square" />
 </br>
